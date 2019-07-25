@@ -6,9 +6,9 @@ Basic funcionality:
 /	5. Display S for set, display N for not set
 
 Advanced functionality:
-	1. When unlocked, U should flash at 2Hz
-	2. Pattern of segments illuminated when each button is pressed
+x	1. When unlocked, U should flash at 2Hz
+x	2. Pattern of segments illuminated when each button is pressed
 /	3. When new passcode is set, print 'SEt' or 'nOt' respectively, wait and lock
 /	4. Buzzer when button is pressed
-	5. Save the new code to EEPROM
-	6. Lockout after 3 incorrect tries for 20 seconds
+x	5. Save the new code to EEPROM
+x	6. Lockout after 3 incorrect tries for 20 seconds
